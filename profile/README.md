@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![텍스트](https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095)](https://rualone.site)  
+![001](https://github.com/Lets-Travel-Well/.github/assets/122503960/46751af2-1e0c-4039-94b4-dd177bc2206d)
 
 > 새로운 곳에서 새로운 사람들과!
 
