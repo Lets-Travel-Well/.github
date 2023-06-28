@@ -5,12 +5,13 @@
         <img width="450" alt="rualone_logo 2023-06-28" src="https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095" >  
     </a> -->
 
-[![RUALONE - 클릭 시 원본으로 이동](https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095)](https://rualone.site)
+[![RUALONE - 클릭 시 원본으로 이동](https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095)](https://rualone.site)  
+
+</div>  
 
 # ✈️ [RUALONE](https://rualone.com)
 
 > 새로운 곳에서 새로운 사람들과!
-</div>  
 
 ## 서비스 소개 🪧
 * RUALONE은 여행지 검색, 동행 구하기 서비스입니다. "여행의 묘미는 새로움에서"라는 모토를 가지고 개발하고 있습니다.
