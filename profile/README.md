@@ -1,16 +1,34 @@
+
+
 <div align="center">
-    <div background-color:white>
-        <img width="492" alt="rualone_logo 2023-06-28" src="https://github.com/Lets-Travel-Well/.github/assets/91540464/b2fa805b-29ea-47aa-8e07-a581d44c3926" >
-    </div>
-        
-  ![로그인](https://github.com/Lets-Travel-Well/.github/assets/122503960/56528f98-e60a-4bf4-a2d0-edc2e1438ac5)
+    <img width="450" alt="rualone_logo 2023-06-28" src="https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095" >  
 
-  <h2> 사라지는 Slack 메세지, 우리가 주워줄게! </h2>
-  https://jupjup.site/
-  <br>
-![KakaoTalk_20230628_135850877](https://github.com/Lets-Travel-Well/.github/assets/91540464/b2fa805b-29ea-47aa-8e07-a581d44c3926)
-![KakaoTalk_20230628_135850877_01](https://github.com/Lets-Travel-Well/.github/assets/91540464/5774d990-95ba-4dc0-9122-aa992b53126b)
+# ✈️ [RUALONE](https://rualone.com)
 
+    새로운 곳에서 새로운 사람들과!
+</div>  
+
+# 서비스 소개 🪧
+* RUALONE은 여행지 검색, 동행 구하기 서비스입니다. "여행의 묘미는 새로움에서"라는 모토를 가지고 개발하고 있습니다.
+
+# 기능 소개 💻
+
+|로그인|2번기능|
+|:-:|:-:|
+|<img src="https://github.com/Lets-Travel-Well/.github/assets/122503960/56528f98-e60a-4bf4-a2d0-edc2e1438ac5">|2번이미지|
+
+
+
+
+# 시스템 구조 🏗️
+
+
+# 개발 스택 🛠️
+
+
+
+
+# 팀원소개 🤝
 
 <table align="center">
     <tr align="center">
@@ -70,10 +88,5 @@
     </tr>
 </table>
 
+# 팀문화 ⚠️
 
-
-
-
-
-
-https://github.com/Lets-Travel-Well/.github/wiki
