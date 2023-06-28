@@ -18,12 +18,12 @@
 
 ## 기능 소개 💻
 
-|메인페이지|
-|:-:|:-:|
-|![메인페이지](https://github.com/Lets-Travel-Well/.github/assets/122503960/9263a00c-1e00-4796-a3b1-5aab62f2343e)|
-|로그인|1번기능|
-|:-:|:-:|
-|![로그인](https://github.com/Lets-Travel-Well/.github/assets/122503960/ffbea547-e52b-478e-b40f-4f0f2ed8b425)|1번이미지|
+|     |     |
+|:---:|:---:|
+|![동행구하기](https://github.com/Lets-Travel-Well/.github/assets/122503960/db7d5bfc-2f00-41a6-88c8-af73f1171c64)|![로그인](https://github.com/Lets-Travel-Well/.github/assets/122503960/ffbea547-e52b-478e-b40f-4f0f2ed8b425)|
+|![메인페이지](https://github.com/Lets-Travel-Well/.github/assets/122503960/9263a00c-1e00-4796-a3b1-5aab62f2343e)|![여행지찾기](https://github.com/Lets-Travel-Well/.github/assets/122503960/76bd9e1d-39c8-4a3b-a20a-ea76bf65d10f)|
+|![자유게시판](https://github.com/Lets-Travel-Well/.github/assets/122503960/e92aefb2-947e-441e-9033-173af21baf43)|     |
+
 
 
 
