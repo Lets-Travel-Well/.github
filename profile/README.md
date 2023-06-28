@@ -1,11 +1,15 @@
 
 
 <div align="center">
-    <img width="450" alt="rualone_logo 2023-06-28" src="https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095" >  
+<!--     <a href="https://rualone.com">
+        <img width="450" alt="rualone_logo 2023-06-28" src="https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095" >  
+    </a> -->
+
+[![RUALONE - 클릭 시 원본으로 이동](https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095)](https://rualone.site)
 
 # ✈️ [RUALONE](https://rualone.com)
 
-    새로운 곳에서 새로운 사람들과!
+> 새로운 곳에서 새로운 사람들과!
 </div>  
 
 ## 서비스 소개 🪧
