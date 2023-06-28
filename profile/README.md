@@ -5,7 +5,7 @@
         <img width="450" alt="rualone_logo 2023-06-28" src="https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095" >  
     </a> -->
 
-[![RUALONE - 클릭 시 원본으로 이동](https://github.com/Lets-Travel-Well/.github/assets/91540464/6420246e-8119-48cc-b4d0-aa5179151095)](https://rualone.site)  
+![001](https://github.com/Lets-Travel-Well/.github/assets/122503960/46751af2-1e0c-4039-94b4-dd177bc2206d)
 
 </div>  
 
