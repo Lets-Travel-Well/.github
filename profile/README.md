@@ -2,11 +2,15 @@
     <div background-color:white>
         <img width="492" alt="rualone_logo 2023-06-28" src="https://github.com/Lets-Travel-Well/.github/assets/91540464/b2fa805b-29ea-47aa-8e07-a581d44c3926" >
     </div>
+        
+  ![로그인](https://github.com/Lets-Travel-Well/.github/assets/122503960/56528f98-e60a-4bf4-a2d0-edc2e1438ac5)
+
   <h2> 사라지는 Slack 메세지, 우리가 주워줄게! </h2>
   https://jupjup.site/
   <br>
 ![KakaoTalk_20230628_135850877](https://github.com/Lets-Travel-Well/.github/assets/91540464/b2fa805b-29ea-47aa-8e07-a581d44c3926)
 ![KakaoTalk_20230628_135850877_01](https://github.com/Lets-Travel-Well/.github/assets/91540464/5774d990-95ba-4dc0-9122-aa992b53126b)
+
 
 <table align="center">
     <tr align="center">
