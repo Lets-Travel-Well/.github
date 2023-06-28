@@ -20,7 +20,7 @@
 
 |로그인|2번기능|
 |:-:|:-:|
-|<img src="https://github.com/Lets-Travel-Well/.github/assets/122503960/56528f98-e60a-4bf4-a2d0-edc2e1438ac5">|2번이미지|
+|![메인페이지](https://github.com/Lets-Travel-Well/.github/assets/122503960/9263a00c-1e00-4796-a3b1-5aab62f2343e)|2번이미지|
 
 
 
