@@ -9,13 +9,13 @@
 
 </div> 
 
-## 서비스 소개 🪧
+# 서비스 소개 🪧
 * RUALONE(루알론)은 여행지 검색, 동행 구하기 서비스입니다!
 * "R U ALONE"의 축약 형태로 홀로 여행을 떠나는 여행자들이 동행을 구하여 더 즐거운 여행을 보냈으면 좋겠다는 취지로 시작되었습니다🎏
 * "여행의 묘미는 새로움에서"라는 모토를 가지고 개발하고 있습니다😄
 <br/>
 
-## 기능 소개 💡
+# 기능 소개 💡
 <div align="center">
 
 |메인페이지|
@@ -41,7 +41,7 @@
 </div> 
 
 
-## 시스템 구조 🏗️
+# 시스템 구조 🏗️
 
 |시스템구조도|
 |:-:|
@@ -51,16 +51,16 @@
 |:-:|
 |![유스케이스](https://github.com/Lets-Travel-Well/.github/assets/91540464/565dc5b1-11ce-4a48-9d38-2f73ee4aa456)|
 
-## 개발 스택 🛠️
+# 개발 스택 🛠️
 
-### Front-end
+## Front-end
 ![프론트엔드](https://github.com/Lets-Travel-Well/.github/assets/91540464/efc6c349-bf9b-4b73-9ae6-d34d3b6dc9dd)
-#### Back-end
+## Back-end
 ![백엔드](https://github.com/Lets-Travel-Well/.github/assets/91540464/804f60c6-bb7d-4400-ba3a-ad3653e1d309)
-#### etc
+## etc
 ![etc](https://github.com/Lets-Travel-Well/.github/assets/91540464/77efb4a5-52c8-4e5c-97ad-8568c4019738)
 
-## 팀원소개 🤝
+# 팀원소개 🤝
 
 <table align="center">
     <tr align="center">
@@ -120,7 +120,7 @@
     </tr>
 </table>
 
-## Rualone 십계명 🏘️
+# Rualone 십계명 🏘️
 #### 1. 혼자 고민하지 않기
 + 혼자 고민은 1시간하고 고민을 나눕시다.
 + 문제를 빠르게 해결하면 팀 전체의 개발 효율성을 높일 수 있어요.
