@@ -43,11 +43,11 @@
 
 # 시스템 구조 🏗️
 
-|시스템구조도|
+|Service Architecture|
 |:-:|
 |![시스템 구조](https://github.com/Lets-Travel-Well/.github/assets/91540464/558afd48-0aaf-4c29-8d5c-1618a23b66e9)|  
 
-|유스케이스|
+|Usecase Diagram|
 |:-:|
 |![유스케이스](https://github.com/Lets-Travel-Well/.github/assets/91540464/565dc5b1-11ce-4a48-9d38-2f73ee4aa456)|
 
