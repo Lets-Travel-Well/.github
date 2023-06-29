@@ -64,6 +64,23 @@
 
 <table align="center">
     <tr align="center">
+        <td>
+            Backend
+        </td>
+        <td>
+            Backend
+        </td>
+        <td>
+            Backend
+        </td>
+        <td>
+            Backend
+        </td>
+        <td>
+            Frontend
+        </td>
+    </tr>
+    <tr align="center">
         <td style="min-width: 150px;">
             <a href="https://github.com/doolysmile">
               <img src="https://avatars.githubusercontent.com/u/28800270?v=4?s=100" width="200">
@@ -107,14 +124,13 @@
         <td>
             신규람
         </td>
-</div>
-   <td>
+        <td>
             유호재
         </td>
-   <td>
+        <td>
             배용현
         </td>
-   <td>
+        <td>
             이명인
         </td>
     </tr>
