@@ -20,7 +20,7 @@
 
 |메인페이지|
 |:---:|
-|![메인페이지](https://github.com/Lets-Travel-Well/.github/assets/122503960/9263a00c-1e00-4796-a3b1-5aab62f2343e) <br/> 서비스 설명과 함께 메뉴를 선택해 해당 서비스를 사용할 수 있습니다!|
+|![메인페이지](https://github.com/Lets-Travel-Well/.github/assets/122503960/9263a00c-1e00-4796-a3b1-5aab62f2343e) <br/> 서비스 설명과 함께 메뉴를 선택해 각 기능을 사용할 수 있습니다!|
 
 |로그인|
 |:---:|
