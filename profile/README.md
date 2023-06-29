@@ -46,11 +46,12 @@
 |![유스케이스](https://github.com/Lets-Travel-Well/.github/assets/91540464/565dc5b1-11ce-4a48-9d38-2f73ee4aa456)|
 
 ## 개발 스택 🛠️
-|Front-end|Back-end|infra|etc|
-|:-:|:-:|:-:|
-|||
-
-
+### Front-end
+![프론트엔드](https://github.com/Lets-Travel-Well/.github/assets/91540464/efc6c349-bf9b-4b73-9ae6-d34d3b6dc9dd)
+#### Back-end
+![백엔드](https://github.com/Lets-Travel-Well/.github/assets/91540464/804f60c6-bb7d-4400-ba3a-ad3653e1d309)
+#### etc
+![etc](https://github.com/Lets-Travel-Well/.github/assets/91540464/77efb4a5-52c8-4e5c-97ad-8568c4019738)
 
 
 ## 팀원소개 🤝
