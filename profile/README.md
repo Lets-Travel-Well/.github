@@ -3,7 +3,7 @@
 ![001](https://github.com/Lets-Travel-Well/.github/assets/122503960/46751af2-1e0c-4039-94b4-dd177bc2206d) <img width="150px;" src="https://github.com/Lets-Travel-Well/.github/assets/91540464/16d3d29f-7cf0-4ef8-9f59-c593a84f15d6"/>
 
 
-# [RUALONE](https://rualone.com)🧑‍🤝‍🧑
+# [RUALONE](https://rualone.site)🧑‍🤝‍🧑
 
 새로운 곳에서 새로운 사람들과!
 
